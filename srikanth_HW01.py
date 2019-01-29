@@ -1,5 +1,6 @@
-'''Buggy traingles assignment to classify triangles given the length of the 3 sides
-author: srikanth'''
+'''Buggy triangles assignment to classify triangles given the length of the 3 sides and write automated test cases
+    to test the correctness
+    author: srikanth'''
 
 import unittest      #importing unittest module
 
